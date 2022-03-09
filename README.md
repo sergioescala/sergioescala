@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 - 🤔 I want to help with Software Engineering stuff
 - 💬 Ask me about whatever you want about tech, is my favorite topic!
+- I ❤️ to code, check my https://www.hackerrank.com/sergioescala 
