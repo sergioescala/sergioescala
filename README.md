@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 🤔 I'm always open to help with Software Engineering stuff
 - 💬 Ask me about Java, SQL, Microservices and whatever you want about tech, is my favorite topic!
 - I ❤️ to code, check my hackerrank profile at https://www.hackerrank.com/sergioescala 
-- I'm bulding my personal blog 👨🏻‍💻 at http://sergioescala.github.io
+<!--- I'm bulding my personal blog 👨🏻‍💻 at http://sergioescala.github.io -->
