@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - I ❤️ to code, check my hackerrank profile at https://www.hackerrank.com/sergioescala 
 <!--- I'm bulding my personal blog 👨🏻‍💻 at http://sergioescala.github.io -->
 
-[![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergioescala)](https://github.com/anuraghazra/github-readme-stats)
+[![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergioescala&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
