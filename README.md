@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Java, SQL, Microservices and whatever you want about tech, is my favorite topic!
 - I ❤️ to code, check my hackerrank profile at https://www.hackerrank.com/sergioescala 
 <!--- I'm bulding my personal blog 👨🏻‍💻 at http://sergioescala.github.io -->
+
+[![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergioescala)](https://github.com/anuraghazra/github-readme-stats)
