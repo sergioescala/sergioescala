@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Sergio 👨🏻‍💻
 
+![](https://komarev.com/ghpvc/?username=sergioescala)
+
 <!-- 
 **sergioescala/sergioescala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
