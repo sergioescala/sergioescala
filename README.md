@@ -1,4 +1,4 @@
-### 👨🏻‍💻 Hi there 👋 I'm Sergio Escalante ![](https://komarev.com/ghpvc/?username=sergioescala)
+### 👨🏻‍💻 Hi there 👋 I'm Sergio Escalante
 
 <!-- 
 **sergioescala/sergioescala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,5 +20,3 @@ Here are some ideas to get you started:
 - I'm Spanish 🥇 native speaker and fluent in English 🥈 so feel free to chat me in any of those languages.
 - 👀 Feel free to [check my contributions in Github](https://github.com/sergioescala/contributions)
 <!--- I'm bulding my personal blog 👨🏻‍💻 at http://sergioescala.github.io -->
-
-[![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergioescala&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
