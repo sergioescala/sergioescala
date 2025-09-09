@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🤔 I'm always open to help with Software Engineering stuff.
 - 🌱 I’m currently learning and improving my management, planning and coordinating skills.
 - 💬 Ask me about Java, SQL, Microservices and whatever you want about tech, is my favorite topic.
-<!--- I ❤️ to code, check my hackerrank profile at https://www.hackerrank.com/sergioescala 🌎. --->
+- I ❤️ to code, check my hackerrank profile at https://www.hackerrank.com/sergioescala 🌎.
 - I'm Spanish 🥇 native speaker and fluent in English 🥈 so feel free to chat me in any of those languages.
 - 👀 Feel free to [check my contributions in Github](https://github.com/sergioescala/contributions)
 <!--- I'm bulding my personal blog 👨🏻‍💻 at http://sergioescala.github.io -->
