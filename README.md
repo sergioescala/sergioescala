@@ -1,4 +1,4 @@
-### 👨🏻‍💻 Hi there 👋 I'm Sergio 
+## 👨🏻‍💻 Hi there 👋 I'm Sergio 
 
 <!-- 
 **sergioescala/sergioescala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 - I ❤️ to code, check my hackerrank profile at https://www.hackerrank.com/sergioescala 🌎.
 - I'm Spanish 🥇 native speaker and fluent in English 🥈 so feel free to chat me in any of those languages.
 - 👀 Feel free to [check my contributions in Github](https://github.com/sergioescala/contributions)
+
+## Vibecoded Projects 
 - Should i deploy to prod today? Chilean version 🇨🇱  [https://pasamosaprod.pages.dev](https://pasamosaprod.pages.dev) 
 - Visualize your time, organize your tasks, and get things done ⚡️  [https://todo-timer.pages.dev](https://todo-timer.pages.dev) 
 <!--- I'm bulding my personal blog 👨🏻‍💻 at http://sergioescala.github.io -->
