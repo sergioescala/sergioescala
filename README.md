@@ -1,6 +1,12 @@
+<div align="center">
+
 # 👋 Hi, I'm Sergio Escala
 
 **Software Engineer** — Java · Microservices · SQL · AI
+
+![Profile Views](https://komarev.com/ghpvc/?username=sergioescala&color=58a6ff&style=flat-square&label=profile+views)
+
+</div>
 
 ---
 
@@ -63,6 +69,10 @@ public class Sergio extends SoftwareEngineer {
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergioescala&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergioescala&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sergioescala&theme=tokyonight&hide_border=true)](https://github.com/sergioescala)
 
 </div>
 
