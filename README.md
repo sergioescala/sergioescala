@@ -19,11 +19,11 @@
 
 ### 👤 About me
 
-Backend-focused Software Engineer with hands-on experience designing and operating microservices architectures in production. I've worked across the full backend lifecycle — from data modeling and API design to deployment and observability — with Java and Spring Boot as my core stack.
+Senior Software Engineer transitioning into Engineering Management, with a strong foundation in backend systems, microservices architecture, and AI integration. I've led technical teams through the full delivery cycle — from scoping and architecture decisions to production rollout and post-mortems.
 
-I care about writing systems that are maintainable, not just functional. Lately I've been bridging engineering with AI, exploring how modern language models fit into real product workflows rather than just demos.
+I bridge the gap between engineering execution and business outcomes: I can go deep into the code when needed, and step back to align teams, remove blockers, and drive technical strategy. My stack is Java and Spring Boot, but my focus is on building the systems — and the teams — that scale.
 
-Currently growing into technical leadership — planning, coordinating teams, and making architectural decisions that hold up over time. Native Spanish speaker, fluent in English.
+Fluent in both English and Spanish. Open to technical conversations, architecture reviews, or just talking about what makes engineering teams work well.
 
 ---
 
