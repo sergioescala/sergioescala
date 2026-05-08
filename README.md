@@ -19,9 +19,11 @@
 
 ### 👤 About me
 
-Software Engineer with a focus on backend systems, microservices, and AI. I enjoy building things that work reliably at scale and I'm always up for a good tech conversation.
+Backend-focused Software Engineer with hands-on experience designing and operating microservices architectures in production. I've worked across the full backend lifecycle — from data modeling and API design to deployment and observability — with Java and Spring Boot as my core stack.
 
-Currently leveling up my management and planning skills. Native Spanish speaker, fluent in English — feel free to reach out in either.
+I care about writing systems that are maintainable, not just functional. Lately I've been bridging engineering with AI, exploring how modern language models fit into real product workflows rather than just demos.
+
+Currently growing into technical leadership — planning, coordinating teams, and making architectural decisions that hold up over time. Native Spanish speaker, fluent in English.
 
 ---
 
