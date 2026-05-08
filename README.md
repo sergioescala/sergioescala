@@ -82,4 +82,6 @@ Currently leveling up my management and planning skills. Native Spanish speaker,
 
 Open to help with Software Engineering — ask me about Java, Microservices, AI, or anything tech-related.
 
-> *sergioescala on [HackerRank](https://www.hackerrank.com/sergioescala) · [GitHub](https://github.com/sergioescala/contributions)*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-escalante)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/sergioescala)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sergioescala/contributions)
