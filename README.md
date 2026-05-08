@@ -17,6 +17,7 @@
     &nbsp;
     <img src="https://komarev.com/ghpvc/?username=sergioescala&color=58a6ff&style=flat-square&label=profile+views"/>
   </p>
+  <p><a href="./README.es.md">🇪🇸 Ver en español</a></p>
 </div>
 
 ---
@@ -26,6 +27,16 @@
 Senior Engineering Manager with a strong technical background in backend systems, microservices architecture, and AI integration. I lead engineering teams through the full delivery cycle — from scoping and architecture decisions to production rollout and post-mortems.
 
 I bridge the gap between engineering execution and business outcomes: I can go deep into the code when needed, and step back to align teams, remove blockers, and drive technical strategy. Fluent in both English and Spanish, and always open to technical conversations, architecture reviews, or talking about what makes engineering teams work well.
+
+---
+
+### 🧭 How I lead
+
+- **Stay technical, lead strategically** — I stay close to the code and architecture so I can make better decisions and earn the team's trust, without becoming a bottleneck.
+- **Clear ownership, minimal process** — I give engineers real autonomy over their work. I'd rather have a small amount of process that people actually follow than a heavy framework nobody does.
+- **Blameless by default** — when things go wrong, the focus is on the system, not the person. Post-mortems are learning tools, not blame sessions.
+- **Communication over assumptions** — I default to over-communicating context: why we're building something matters as much as what we're building.
+- **AI as a force multiplier** — I actively explore how AI tools can reduce toil, accelerate delivery, and free engineers to focus on higher-leverage problems.
 
 ---
 
