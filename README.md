@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/sergioescala.png" width="110" style="border-radius:50%"/>
+  <!-- <img src="https://github.com/sergioescala.png" width="110" style="border-radius:50%"/> -->
   <h1>Sergio</h1>
   <p>Engineering Manager &nbsp;·&nbsp; Software Engineer &nbsp;·&nbsp; AI Enthusiast</p>
   <p>
