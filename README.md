@@ -67,6 +67,13 @@ Currently leveling up my management and planning skills. Native Spanish speaker,
       <a href="https://todo-timer.pages.dev">todo-timer.pages.dev ↗</a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🗂️ Contributions</h4>
+      <p>A curated log of my open source contributions across different projects and repositories.</p>
+      <a href="https://github.com/sergioescala/contributions">github.com/sergioescala/contributions ↗</a>
+    </td>
+  </tr>
 </table>
 
 ---
