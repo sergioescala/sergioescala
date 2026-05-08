@@ -19,7 +19,7 @@
 
 ### 👤 About me
 
-Senior Software Engineer transitioning into Engineering Management, with a strong foundation in backend systems, microservices architecture, and AI integration. I've led technical teams through the full delivery cycle — from scoping and architecture decisions to production rollout and post-mortems.
+Senior Engineering Manager with a strong technical background in backend systems, microservices architecture, and AI integration. I lead engineering teams through the full delivery cycle — from scoping and architecture decisions to production rollout and post-mortems.
 
 I bridge the gap between engineering execution and business outcomes: I can go deep into the code when needed, and step back to align teams, remove blockers, and drive technical strategy. My stack is Java and Spring Boot, but my focus is on building the systems — and the teams — that scale.
 
