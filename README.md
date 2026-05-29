@@ -1,6 +1,10 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sergio+%F0%9F%91%8B;Engineering+Manager+%26+Software+Engineer;Backend+%E2%80%A2+Microservices+%E2%80%A2+AI" alt="typing banner" />
+  <h1>Sergio Escalante</h1>
+  <h3>Engineering Manager · Software Engineer · AI Enthusiast</h3>
+  <p><em>Backend systems · Microservices architecture · AI integration</em></p>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Leading+engineering+teams+end+to+end;Staying+technical%2C+leading+strategically;Exploring+AI+as+a+force+multiplier" alt="Leading engineering teams · Staying technical, leading strategically · Exploring AI as a force multiplier" />
 
   <p>
     <a href="https://www.linkedin.com/in/sergio-escalante">
@@ -26,7 +30,7 @@
 
 ### 👤 About me
 
-Senior Engineering Manager with a strong technical background in backend systems, microservices architecture, and AI integration. I lead engineering teams through the full delivery cycle — from scoping and architecture decisions to production rollout and post-mortems.
+I'm Sergio Escalante, a Senior Engineering Manager with a strong technical background in backend systems, microservices architecture, and AI integration. I lead engineering teams through the full delivery cycle — from scoping and architecture decisions to production rollout and post-mortems.
 
 I bridge engineering execution and business outcomes: I go deep into the code when it counts, then step back to align teams, remove blockers, and drive technical strategy. Fluent in English and Spanish, and always up for a technical conversation, an architecture review, or a chat about what makes engineering teams work well.
 
@@ -75,7 +79,7 @@ I bridge engineering execution and business outcomes: I go deep into the code wh
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 **Cloud & Orchestration**
@@ -110,9 +114,9 @@ I bridge engineering execution and business outcomes: I go deep into the code wh
 
 **API & Testing**
 
-![REST](https://img.shields.io/badge/REST-005571?style=flat-square&logo=fastapi&logoColor=white)
+![REST](https://img.shields.io/badge/REST-02569B?style=flat-square&logo=swagger&logoColor=white)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=trpc&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-2D6E8E?style=flat-square&logo=grpc&logoColor=white)
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat-square&logo=mockito&logoColor=white)
 ![Testcontainers](https://img.shields.io/badge/Testcontainers-291A38?style=flat-square&logo=testcontainers&logoColor=white)
@@ -129,12 +133,12 @@ I bridge engineering execution and business outcomes: I go deep into the code wh
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sergioescala&show_icons=true&hide_border=true&theme=github_dark&icon_color=58a6ff&title_color=58a6ff" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergioescala&layout=compact&hide_border=true&theme=github_dark&title_color=58a6ff" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sergioescala&show_icons=true&hide_border=true&theme=github_dark&icon_color=58a6ff&title_color=58a6ff" alt="Sergio's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergioescala&layout=compact&hide_border=true&theme=github_dark&title_color=58a6ff" alt="Sergio's most used languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sergioescala&hide_border=true&theme=github-dark-blue&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=sergioescala&hide_border=true&theme=github-dark-blue&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="Sergio's GitHub contribution streak" />
 </div>
 
 ---
