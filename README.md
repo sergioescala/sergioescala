@@ -130,16 +130,13 @@ I bridge engineering execution and business outcomes: I go deep into the code wh
 
 ---
 
-### 📊 GitHub Stats
+### 📌 Currently
 
-<div align="center">
-  <img height="165" src="https://gh-readme-stats.vercel.app/api?username=sergioescala&show_icons=true&hide_border=true&theme=github_dark&icon_color=58a6ff&title_color=58a6ff" alt="Sergio's GitHub stats" />
-  <img height="165" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=sergioescala&layout=compact&hide_border=true&theme=github_dark&title_color=58a6ff" alt="Sergio's most used languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=sergioescala&hide_border=true&theme=github-dark-blue&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="Sergio's GitHub contribution streak" />
-</div>
+- 🛠️ Leading backend and platform teams building microservices on the JVM (Java / Spring Boot).
+- 🤖 Integrating AI into engineering workflows — from code assistants to LLM-backed product features.
+- ☁️ Designing for scale and reliability across AWS, GCP, and Kubernetes.
+- ✍️ Shipping small side projects (see above) and writing about engineering leadership.
+- 🌎 Open to mentoring engineers and chatting about the IC → manager transition.
 
 ---
 

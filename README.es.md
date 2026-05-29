@@ -130,16 +130,13 @@ Conecto la ejecución técnica con los resultados de negocio: puedo profundizar 
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📌 Actualmente
 
-<div align="center">
-  <img height="165" src="https://gh-readme-stats.vercel.app/api?username=sergioescala&show_icons=true&hide_border=true&locale=es&theme=github_dark&icon_color=58a6ff&title_color=58a6ff" alt="estadísticas de GitHub de Sergio" />
-  <img height="165" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=sergioescala&layout=compact&hide_border=true&locale=es&theme=github_dark&title_color=58a6ff" alt="lenguajes más usados por Sergio" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=sergioescala&hide_border=true&locale=es&theme=github-dark-blue&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="racha de contribuciones de GitHub de Sergio" />
-</div>
+- 🛠️ Liderando equipos de backend y plataforma que construyen microservicios sobre la JVM (Java / Spring Boot).
+- 🤖 Integrando AI en los flujos de ingeniería — desde asistentes de código hasta features de producto con LLMs.
+- ☁️ Diseñando para escala y confiabilidad en AWS, GCP y Kubernetes.
+- ✍️ Lanzando pequeños proyectos personales (ver arriba) y escribiendo sobre liderazgo en ingeniería.
+- 🌎 Abierto a mentorear ingenieros y conversar sobre la transición de IC a manager.
 
 ---
 
