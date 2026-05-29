@@ -133,8 +133,8 @@ Conecto la ejecución técnica con los resultados de negocio: puedo profundizar 
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sergioescala&show_icons=true&hide_border=true&locale=es&theme=github_dark&icon_color=58a6ff&title_color=58a6ff" alt="estadísticas de GitHub de Sergio" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergioescala&layout=compact&hide_border=true&locale=es&theme=github_dark&title_color=58a6ff" alt="lenguajes más usados por Sergio" />
+  <img height="165" src="https://gh-readme-stats.vercel.app/api?username=sergioescala&show_icons=true&hide_border=true&locale=es&theme=github_dark&icon_color=58a6ff&title_color=58a6ff" alt="estadísticas de GitHub de Sergio" />
+  <img height="165" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=sergioescala&layout=compact&hide_border=true&locale=es&theme=github_dark&title_color=58a6ff" alt="lenguajes más usados por Sergio" />
 </div>
 
 <div align="center">

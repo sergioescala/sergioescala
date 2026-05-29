@@ -133,8 +133,8 @@ I bridge engineering execution and business outcomes: I go deep into the code wh
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sergioescala&show_icons=true&hide_border=true&theme=github_dark&icon_color=58a6ff&title_color=58a6ff" alt="Sergio's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergioescala&layout=compact&hide_border=true&theme=github_dark&title_color=58a6ff" alt="Sergio's most used languages" />
+  <img height="165" src="https://gh-readme-stats.vercel.app/api?username=sergioescala&show_icons=true&hide_border=true&theme=github_dark&icon_color=58a6ff&title_color=58a6ff" alt="Sergio's GitHub stats" />
+  <img height="165" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=sergioescala&layout=compact&hide_border=true&theme=github_dark&title_color=58a6ff" alt="Sergio's most used languages" />
 </div>
 
 <div align="center">
